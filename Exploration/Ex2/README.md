@@ -31,9 +31,8 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
  
-   
-        ![image](https://github.com/whtnals135/Aiffel_Quest_seonjaelee/assets/149548856/58adc994-33b6-4097-be9c-3506413afdef)
-
+ ![image](https://github.com/whtnals135/Aiffel_Quest_seonjaelee/assets/149548856/58adc994-33b6-4097-be9c-3506413afdef)
+ 
 <br> 
      
     - **조수민: 다른 시도를 더 해보려는 것이 드러나있다.**
