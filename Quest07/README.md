@@ -11,6 +11,11 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
+<img width="378" alt="스크린샷 2024-02-06 오후 5 07 24" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/38346a0f-1dda-46bd-a6ab-d52586bc2246">
+
+<img width="199" alt="스크린샷 2024-02-06 오후 5 07 45" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/a836ca2b-bf43-4b78-9191-eaef06f0fe1c">  
+
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
