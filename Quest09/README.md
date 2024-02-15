@@ -37,3 +37,37 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 모듈화(함수화) 했는지
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+
+
+
+---
+# 결과물 첨부  
+
+## 서버 구성
+<img width="960" alt="스크린샷 2024-02-15 오후 5 09 17" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/fc75e4e8-01fe-4133-9f7c-18d0616f2d20">  
+
+<br>  
+
+## 포트 포워딩
+<img width="779" alt="스크린샷 2024-02-15 오후 5 08 57" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/3bf5007e-8847-4697-8c33-ec7e7c264b08">  
+
+<br>  
+
+## 서버 로그  
+<img width="800" alt="스크린샷 2024-02-15 오후 5 08 45" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/4257826b-66cc-4cf5-aeb6-34588d0020da">  
+
+<br>
+
+## 실행 결과
+<img width="255" alt="스크린샷 2024-02-15 오후 5 08 12" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/13a319a9-6251-4d93-a593-d71ffb125821">  
+
+<br>  
+
+## 버튼 클릭 시 로그  
+<img width="343" alt="스크린샷 2024-02-15 오후 5 08 37" src="https://github.com/thetjswo/AIFFEL_Quest/assets/74177040/7c1e2cb1-5629-4f15-b143-f2cf63acd856">
+
+
+
+
+
+
